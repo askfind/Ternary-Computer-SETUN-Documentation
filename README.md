@@ -12,4 +12,4 @@ Ternary Computer SETUN Documentation
 # History
 
  - Create date: 01.11.2018
- - Edit date:   16.09.2023
+ - Edit date:   28.10.2023
